@@ -1,0 +1,25 @@
+Postaraj się rozkładać każde z zadań na "części pierwsze". Zastanów się czy potrzebujesz jakiejś pętli (jeśli tak - jakiej?),
+czy potrzebujesz zdefiniować jakieś zmienne przed rozpoczęciem pętli, jakie dane będziesz przetwarzać(liczby, tekst, elementy listy?)
+oraz co powinno się dziać w każdym kroku pętli :)
+
+
+1. Napisz pętlę, która wypisze wszystkie liczby podzielne przez 2 z zakresu 1-100
+
+2. Stwórz listę wypełnioną pięcioma losowymi liczbami z zakresu 1-100 (wskazówka: przyda się biblioteka random). Zsumuj wszystkie
+liczby z listy. Czy ich suma jest większa niż 250?
+
+3. Masz listę imion:
+imiona = ["Ania", "Bartek", "Celina", "Daniel"]
+Wypisz każde imie, dodając na początku tekst "Cześć" (pamiętaj o f-strigach :) )
+
+4. Masz listę liczb:
+liczby = [3, 7, 2, 9]
+
+Oblicz sumę wszystkich elementów listy na dwa sposoby:
+ - z użyciem pętli
+ - z użyciem funkcji "sum()"
+
+5. Masz listę liczb:
+liczby = [5,8,4,2]
+utwórz nową listę, i dodaj do niej kwadraty liczb z listy "liczby"
+(Wskazówka: wyszukaj w internecie informacje o bibliotece "math")
