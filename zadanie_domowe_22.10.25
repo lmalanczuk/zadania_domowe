@@ -1,0 +1,23 @@
+1.Suma i ilość dodatnich liczb
+Wczytuj liczby tak długo, aż użytkownik wpisze 0. Na koniec wypisz sumę i liczbę dodatnich.
+
+2.Liczby w odwrotnej kolejności
+Wczytaj liczbę n i wypisz liczby od n do 1 co 1 (odwrotnie).
+
+3. Silnia liczby n
+Wczytaj n i oblicz n! (pętlą).
+
+4. Funkcja suma(a, b)
+Zwraca sumę dwóch liczb.
+
+5.Funkcja kwadrat(x)
+Zwraca kwadrat liczby.
+
+6. Funkcja powitanie(imie)
+Wypisuje „Cześć, <imię>!”.
+
+7. Funkcja max3(a, b, c)
+Zwraca największą z trzech liczb.
+
+8. Funkcja czy_parzysta(n)
+Zwraca True jeśli liczba parzysta, inaczej False.
