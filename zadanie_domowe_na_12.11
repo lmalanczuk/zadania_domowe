@@ -1,0 +1,54 @@
+1.Napisz program, który wczyta zawartość pliku oryginal.txt i zapisze ją do nowego pliku kopia.txt.
+Jeśli plik docelowy już istnieje, jego treść ma zostać nadpisana.
+Dane przykładowe (oryginal.txt):
+"
+To jest przykładowy tekst.
+Zawartość ma zostać skopiowana.
+"
+
+2.Wczytaj plik wiersze.txt i zapisz do ponumerowane.txt jego zawartość, dodając numery linii na początku każdej z nich.
+Dane przykładowe (wiersze.txt):
+Ala ma kota
+Kot lubi mleko
+Pada deszcz
+
+Oczekiwany wynik:
+1: Ala ma kota
+2: Kot lubi mleko
+3: Pada deszcz
+
+3.Napisz program, który odczyta wszystkie linie z pliku teksty.txt,
+a następnie zapisze je do pliku odwrocone.txt w odwrotnej kolejności.
+
+Dane (teksty.txt):
+"
+pierwsza
+druga
+trzecia
+czwarta
+"
+Oczekiwany wynik (odwrocone.txt):
+"
+czwarta
+trzecia
+druga
+pierwsza
+"
+
+4. W pliku powtorzenia.txt niektóre linie mogą się powtarzać.
+Utwórz nowy plik unikatowe.txt, w którym znajdą się tylko unikalne linie
+(w kolejności ich pierwszego wystąpienia).
+
+Dane przykładowe (powtorzenia.txt):
+
+Ala ma kota
+Kot lubi mleko
+Ala ma kota
+Dzisiaj pada deszcz
+Kot lubi mleko
+
+Oczekiwany wynik (unikatowe.txt):
+
+Ala ma kota
+Kot lubi mleko
+Dzisiaj pada deszcz
